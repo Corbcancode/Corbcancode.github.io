@@ -1,0 +1,28 @@
+header {
+      text-align: center; 
+      background: url("images/banner.jpg");
+      background-size: cover;
+}
+    a {
+      color: white;
+    }
+    
+    ul {
+      padding: 10px;
+      background: rgba(5,50,50,0.8) ;
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      padding: 20px;
+      margin: 0 auto;
+    }
+   
+      li {
+        padding: 5px;
+        display: ;}
+
+body{ background: rgb(214,255,194);
+      }
