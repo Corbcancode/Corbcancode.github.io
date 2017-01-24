@@ -26,3 +26,4 @@ header {
 body{ background: rgb(214,255,194);}
     article {max-width: 500px; padding:20px; margin:0 auto;}
     @media (max-width: 500px) {background:red; h1{font-size: 36px; } li {display:block; padding:5px;}}
+.header {font-family: "comic sans", sans-serif}
