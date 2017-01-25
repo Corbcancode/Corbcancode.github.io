@@ -23,8 +23,8 @@ header {
       display: inline;
       padding: 0px 10px 0px 10px;
     }
-body{ background: url('background.jpg'); background-color;(214,255,194);
+body{ background: url('background.jpg');
 background-size: cover;}
-    article {max-width: 700px; padding:20px; margin:0 auto;}
+    article {max-width: 700px; padding:20px; margin:0 auto; background:(214,255,194);}
     @media (max-width: 700px) {background:red; h1{font-size: 36px; } li {display:block; padding:5px;}}
 .header {font-family: sans-serif}
